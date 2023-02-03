@@ -1,5 +1,6 @@
-# vue-crash
+# Task Tracker
 
+Implemeneted using VueJs
 ## Project setup
 ```
 yarn install
