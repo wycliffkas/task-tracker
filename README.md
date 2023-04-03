@@ -1,25 +1,16 @@
-# Task Tracker
+# Task Traker
+A Todo list application
 
-Implemeneted using VueJs
-## Project setup
-```
-yarn install
-```
+## Features
+- Create todos
+- Delete todos
+- Set Reminder
 
-### Compiles and hot-reloads for development
+## Running the application
+- Clone the repo locally. By running:
 ```
-yarn serve
+$ git clone https://github.com/wycliffkas/task-tracker
 ```
-
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+- Install [Node.js](https://nodejs.org/en/)
+- Run `npm install` if you use npm or `yarn` if you use yarn inorder to install the dependencies
+- Run `yarn serve` to launch the app which will automatically launch the app in the browser.
